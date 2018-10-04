@@ -1,5 +1,5 @@
 /*
-Ray Chen - Period 1
+Louis Yang - Period 1
 Three Digit Ascend Descend Selection
 3 digit number and find stuff about it.
 */
